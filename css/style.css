@@ -1,0 +1,39 @@
+.main-h1 {
+    font-size: 3em;
+    margin-left: 10px;
+}
+
+body {
+    background-color: #101010;
+    color: #DADADA;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.content {
+    display: flex;
+}
+
+nav {
+    width: 120px;
+}
+
+nav li {
+    margin-top: 20px;
+    list-style-type: none;
+    font-size: 1.1em;
+}
+
+main {
+    margin-left: 15%;
+    font-size: 1.1em;
+    max-width: 800px;
+}
+
+.text-link {
+    color: #DADADA;
+    font-style: italic;
+}
+footer {
+    margin-top: 30px;
+    margin-left: 23%;
+}
