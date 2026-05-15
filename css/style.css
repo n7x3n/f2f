@@ -1,6 +1,7 @@
 .main-h1 {
     font-size: 3em;
-    margin-left: 10px;
+    margin-left: 5%;
+    margin-bottom: 5%;
 }
 
 body {
@@ -9,22 +10,32 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+p {
+    font-size: 1.1em;
+}
+
 div.content {
     display: flex;
 }
 
 nav {
-    width: 120px;
+    width: 21%;
+    position: fixed;
+    /*background-color: #1d1d1d;*/
+    height: 100vh;
+    padding-top: 20px;
+    border-right: 3px solid #1d1d1d;
 }
 
 nav li {
     margin-top: 20px;
     list-style-type: none;
     font-size: 1.1em;
+    /*background-color: #353434;*/
 }
 
 main {
-    margin-left: 15%;
+    margin-left: 23%;
     font-size: 1.1em;
     max-width: 800px;
 }
@@ -33,7 +44,9 @@ main {
     color: #DADADA;
     font-style: italic;
 }
+
 footer {
     margin-top: 30px;
     margin-left: 23%;
+    max-width: 800px;
 }
