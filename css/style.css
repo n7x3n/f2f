@@ -1,7 +1,8 @@
-.main-h1 {
+#main-h1 {
     font-size: 3em;
     margin-left: 5%;
     margin-bottom: 5%;
+    color: #DADADA;
 }
 
 body {
@@ -11,7 +12,7 @@ body {
 }
 
 p {
-    font-size: 1.1em;
+    font-size: 1em;
 }
 
 div.content {
@@ -44,9 +45,15 @@ main {
     color: #DADADA;
     font-style: italic;
 }
+.text-link>:hover {
+    color: red;
+}
 
 footer {
     margin-top: 30px;
     margin-left: 23%;
     max-width: 800px;
+}
+aside {
+    margin-top: 7.5%;
 }
