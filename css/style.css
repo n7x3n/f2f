@@ -45,6 +45,7 @@ main {
     color: #DADADA;
     font-style: italic;
 }
+
 .text-link>:hover {
     color: red;
 }
@@ -54,6 +55,26 @@ footer {
     margin-left: 23%;
     max-width: 800px;
 }
+
 aside {
     margin-top: 7.5%;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #161618;
+    /* Camouflage: Matches the page background */
+}
+
+::-webkit-scrollbar-thumb {
+    background: #393639;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #ffffff;
 }
