@@ -4,6 +4,11 @@
     margin-bottom: 5%;
     color: #DADADA;
 }
+.h-pic {
+    max-width: 90%;
+    padding-left: 3%;
+    height: auto;
+}
 
 body {
     background-color: #101010;
@@ -22,7 +27,7 @@ div.content {
 nav {
     width: 21%;
     position: fixed;
-    /*background-color: #1d1d1d;*/
+    top: 0;
     height: 100vh;
     padding-top: 20px;
     border-right: 3px solid #1d1d1d;
@@ -32,13 +37,18 @@ nav li {
     margin-top: 20px;
     list-style-type: none;
     font-size: 1.1em;
-    /*background-color: #353434;*/
+}
+.nav {
+    color: #DADADA;
+    text-decoration: none;
 }
 
 main {
     margin-left: 23%;
     font-size: 1.1em;
     max-width: 800px;
+    justify-content: center;
+    align-items: center;
 }
 
 .text-link {
@@ -57,7 +67,13 @@ footer {
 }
 
 aside {
-    margin-top: 7.5%;
+    margin-left: auto;
+    border-left: 3px solid #1d1d1d;
+    margin-right: auto;
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
 }
 
 ::-webkit-scrollbar {
@@ -67,7 +83,6 @@ aside {
 
 ::-webkit-scrollbar-track {
     background: #161618;
-    /* Camouflage: Matches the page background */
 }
 
 ::-webkit-scrollbar-thumb {
