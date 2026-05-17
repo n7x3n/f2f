@@ -3,6 +3,8 @@ body {
     background-color: #101010;
     color: #DADADA;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 p {
@@ -10,19 +12,29 @@ p {
 }
 
 div.content {
+    display: grid;
+    grid-template-columns: 21% 1fr 20%;
+    height: 100vh;
+    overflow: hidden;
+}
+div.middle {
+    overflow-y: auto;
     display: flex;
+    flex-direction: column;
+}
+nav {
+    overflow-y: auto;
+}
+aside {
+    overflow-y: auto;
 }
 /*navigation*/
 .h-pic {
-    max-width: 90%;
+    width: 90%;
     padding-left: 3%;
     height: auto;
 }
 nav {
-    width: 21%;
-    position: fixed;
-    top: 0;
-    height: 100vh;
     padding-top: 20px;
     border-right: 3px solid #1d1d1d;
 }
@@ -39,11 +51,10 @@ nav li {
 }
 /*main content*/
 main {
-    margin-left: 23%;
     font-size: 1.1em;
-    max-width: 50%;
     justify-content: center;
     align-items: center;
+    padding: 20px;
 }
 /*links*/
 .text-link {
@@ -57,9 +68,8 @@ main {
 
 /*footer*/
 footer {
-    margin-top: 30px;
-    margin-left: 23%;
-    max-width: 800px;
+    margin-top: auto;
+    padding: 20px;
 }
 
 .foot-hr {
@@ -69,17 +79,12 @@ footer {
 
 /*right panel*/
 aside {
-    margin-left: auto;
     border-left: 3px solid #1d1d1d;
-    margin-right: auto;
-    position: fixed;
-    top: 0;
-    right: 0;
-    height: 100vh;
 }
 
 table {
-    width: 20em;
+    width: 90%;
+    height: auto;
     margin-left: 5%;
 }
 
@@ -92,7 +97,7 @@ th {
 }
 
 .aside-pic {
-    width: 20em;
+    width: 90%;
     margin-left: 5%;
 }
 
