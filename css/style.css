@@ -1,15 +1,4 @@
-#main-h1 {
-    font-size: 3em;
-    margin-left: 5%;
-    margin-bottom: 5%;
-    color: #DADADA;
-}
-.h-pic {
-    max-width: 90%;
-    padding-left: 3%;
-    height: auto;
-}
-
+/*general*/
 body {
     background-color: #101010;
     color: #DADADA;
@@ -23,7 +12,12 @@ p {
 div.content {
     display: flex;
 }
-
+/*navigation*/
+.h-pic {
+    max-width: 90%;
+    padding-left: 3%;
+    height: auto;
+}
 nav {
     width: 21%;
     position: fixed;
@@ -38,19 +32,20 @@ nav li {
     list-style-type: none;
     font-size: 1.1em;
 }
+
 .nav {
     color: #DADADA;
     text-decoration: none;
 }
-
+/*main content*/
 main {
     margin-left: 23%;
     font-size: 1.1em;
-    max-width: 800px;
+    max-width: 50%;
     justify-content: center;
     align-items: center;
 }
-
+/*links*/
 .text-link {
     color: #DADADA;
     font-style: italic;
@@ -60,12 +55,19 @@ main {
     color: red;
 }
 
+/*footer*/
 footer {
     margin-top: 30px;
     margin-left: 23%;
     max-width: 800px;
 }
 
+.foot-hr {
+    margin-top: 5%;
+    margin-bottom: -1%;
+}
+
+/*right panel*/
 aside {
     margin-left: auto;
     border-left: 3px solid #1d1d1d;
@@ -76,6 +78,29 @@ aside {
     height: 100vh;
 }
 
+table {
+    width: 20em;
+    margin-left: 5%;
+}
+
+td {
+    border-bottom: 2px solid #1d1d1d;
+}
+
+th {
+    background-color: #161618;
+}
+
+.aside-pic {
+    width: 20em;
+    margin-left: 5%;
+}
+
+.aside-header {
+    text-align: center;
+}
+
+/*scrollbar*/
 ::-webkit-scrollbar {
     width: 8px;
     height: 8px;
