@@ -6,14 +6,14 @@
 - [ ] **sekce "Příběh"** - kompletně přepsat vlastními texty
 
 ## Episode 1
-- [ ] **Příběh** - přepsat vlastním textem
-- [ ] **Rating** - přidat do aside
-- [ ] **Finanční úspěšnost** - přidat do aside 
-- [ ] **Postavy** - přidat article
-- [ ] **Skrytý lore** - přidat article
-- [ ] **Lokace** - přidat article
-- [ ] **Bad Endings**- přidat article
-- [ ] **Zajímavosti** - přidat article
+- [x] **Příběh** - přepsat vlastním textem
+- [x] **Rating** - přidat do aside
+- [x] **Finanční úspěšnost** - přidat do aside 
+- [x] **Postavy** - přidat article
+- [x] **Lokace** - přidat article
+- [x] **Bad Endings**- přidat article
+- [x] **Skrytý lore** - přidat article
+- [x] **Zajímavosti** - přidat article
 
 ## Episode 2
 - [ ] **Příběh** - přepsat vlastním textem

@@ -40,8 +40,8 @@ nav {
 nav li {
     margin-top: 20px;
     list-style-type: none;
-    font-size: 1.6em;
-    padding-left: 5%;
+    font-size: 1.3em;
+    padding-left: 0%;
 }
 
 .nav {
@@ -125,5 +125,24 @@ th {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #ffffff;
+    background: #DADADA;
+}
+/*location-gallery*/
+figcaption {
+    font-style: oblique;
+    padding-top: 0;
+    margin-top: -3px;
+}
+.fig-img {
+    width: 30%;
+    max-width: max-content;
+    height: auto;
+}
+/*Bad endings section*/
+.bad-e {
+    margin-top: -1%;
+}
+/*Details section*/
+.norm-li {
+    margin-bottom: 0.5%;
 }
