@@ -17,8 +17,8 @@
 
 ## Episode 2
 - [ ] **Příběh** - přepsat vlastním textem
-- [ ] **Rating** - přidat do aside
-- [ ] **Finanční úspěšnost** - přidat do aside
+- [x] **Rating** - přidat do aside
+- [x] **Finanční úspěšnost** - přidat do aside
 - [ ] **Postavy** - přidat article
 - [ ] **Skrytý lore** - přidat article
 - [ ] **Lokace** - přidat article
