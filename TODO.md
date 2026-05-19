@@ -4,6 +4,7 @@
 - [ ] **Vizuální styl a atmosféra** - přidat article
 - [ ] **herní mechaniky typické pro sérii** - přidat article
 - [ ] **sekce "Příběh"** - kompletně přepsat vlastními texty
+- [ ] **aside panel** - přidat a něčím vyplnit =)
 
 ## Episode 1
 - [x] **Příběh** - přepsat vlastním textem
