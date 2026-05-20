@@ -1,7 +1,7 @@
 # todo
 ## Main page
-- [ ] **O Vývojáři** - přidat article
-- [ ] **Vizuální styl a atmosféra** - přidat article
+- [x] **O Vývojáři** - přidat article
+- [x] **Vizuální styl a atmosféra** - přidat article
 - [ ] **herní mechaniky typické pro sérii** - přidat article
 - [ ] **sekce "Příběh"** - kompletně přepsat vlastními texty
 - [ ] **aside panel** - přidat a něčím vyplnit =)
