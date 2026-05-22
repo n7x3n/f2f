@@ -3,7 +3,7 @@
 - [x] **O Vývojáři** - přidat article
 - [x] **Vizuální styl a atmosféra** - přidat article
 - [ ] **herní mechaniky typické pro sérii** - přidat article
-- [ ] **sekce "Příběh"** - kompletně přepsat vlastními texty
+- [x] **sekce "Příběh"** - kompletně přepsat vlastními texty
 - [ ] **aside panel** - přidat a něčím vyplnit =)
 
 ## Episode 1

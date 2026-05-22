@@ -57,6 +57,9 @@ main {
     padding: 20px;
 }
 
+.indent {
+    text-indent: 1em;
+}
 /*links*/
 .text-link {
     color: #DADADA;
