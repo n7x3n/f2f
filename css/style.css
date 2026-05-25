@@ -100,7 +100,9 @@ td {
 th {
     background-color: #161618;
 }
-
+.bc {
+    border-collapse: collapse;
+}
 .aside-pic {
     width: 90%;
     margin-left: 5%;
