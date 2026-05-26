@@ -20,10 +20,10 @@
 - [ ] **Příběh** - přepsat vlastním textem
 - [x] **Rating** - přidat do aside
 - [x] **Finanční úspěšnost** - přidat do aside
-- [ ] **Postavy** - přidat article
+- [x] **Postavy** - přidat article
 - [ ] **Skrytý lore** - přidat article
-- [ ] **Lokace** - přidat article
-- [ ] **Bad Endings**- přidat article
+- [x] **Lokace** - přidat article
+- [x] **Bad Endings**- přidat article
 - [ ] **Zajímavosti** - přidat article
 
 ## Episode 3
