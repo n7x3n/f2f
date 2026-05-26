@@ -21,7 +21,7 @@
 - [x] **Rating** - přidat do aside
 - [x] **Finanční úspěšnost** - přidat do aside
 - [x] **Postavy** - přidat article
-- [ ] **Skrytý lore** - přidat article
+- [x] **Skrytý lore** - přidat article
 - [x] **Lokace** - přidat article
 - [x] **Bad Endings**- přidat article
 - [ ] **Zajímavosti** - přidat article

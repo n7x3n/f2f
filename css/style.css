@@ -66,8 +66,8 @@ main {
     font-style: italic;
 }
 
-.text-link>:hover {
-    color: red;
+.text-link:hover {
+    color: #f2255f;
 }
 
 /*footer*/
@@ -150,4 +150,7 @@ figcaption {
 /*Details section*/
 .norm-li {
     margin-bottom: 0.5%;
+}
+.lst-disc {
+    list-style-type: disc;
 }
