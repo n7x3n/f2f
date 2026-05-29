@@ -24,7 +24,7 @@
 - [x] **Skrytý lore** - přidat article
 - [x] **Lokace** - přidat article
 - [x] **Bad Endings**- přidat article
-- [ ] **Zajímavosti** - přidat article
+- [x] **Zajímavosti** - přidat article
 
 ## Episode 3
 - [ ] **Příběh** - přidat article
