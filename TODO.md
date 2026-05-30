@@ -17,7 +17,7 @@
 - [x] **Zajímavosti** - přidat article
 
 ## Episode 2
-- [ ] **Příběh** - přepsat vlastním textem
+- [x] **Příběh** - přepsat vlastním textem
 - [x] **Rating** - přidat do aside
 - [x] **Finanční úspěšnost** - přidat do aside
 - [x] **Postavy** - přidat article
