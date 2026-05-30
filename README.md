@@ -1,6 +1,7 @@
  # Fears to Fathom "Wiki"
 - "wiki" pro hororovou sérii *Fears to Fathom*.
 - školní projekt
+- živě na: [f2f.n7x3n.com](https://f2f.n7x3n.com/)
  ## Inspirace
 - [Obsidian dokumentace](https://obsidian.md/help/)
 - [Fears to Fathom - Wiki fandom](https://fearstofathom.fandom.com/wiki/Fears_to_Fathom_Wiki)
