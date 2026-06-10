@@ -28,7 +28,7 @@
 
 ## Episode 3
 - [ ] **Příběh** - přidat article
-- [ ] **aside** - kompletně celý napsat
+- [x] **aside** - kompletně celý napsat
 - [ ] **Postavy** - přidat article
 - [ ] **Skrytý lore** - přidat article
 - [ ] **Lokace** - přidat article
