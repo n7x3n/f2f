@@ -27,11 +27,11 @@
 - [x] **Zajímavosti** - přidat article
 
 ## Episode 3
-- [ ] **Příběh** - přidat article
+- [ ] **Příběh** - přepsat vlastním textem
 - [x] **aside** - kompletně celý napsat
 - [ ] **Postavy** - přidat article
 - [ ] **Skrytý lore** - přidat article
-- [ ] **Lokace** - přidat article
+- [x] **Lokace** - přidat article
 - [ ] **Bad endings** - přidat article
 - [ ] **Zajímavosti** - přidat article
 
