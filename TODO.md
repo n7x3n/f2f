@@ -27,7 +27,7 @@
 - [x] **Zajímavosti** - přidat article
 
 ## Episode 3
-- [ ] **Příběh** - přepsat vlastním textem
+- [x] **Příběh** - přepsat vlastním textem
 - [x] **aside** - kompletně celý napsat
 - [ ] **Postavy** - přidat article
 - [ ] **Skrytý lore** - přidat article
