@@ -29,10 +29,10 @@
 ## Episode 3
 - [x] **Příběh** - přepsat vlastním textem
 - [x] **aside** - kompletně celý napsat
-- [ ] **Postavy** - přidat article
+- [x] **Postavy** - přidat article
 - [ ] **Skrytý lore** - přidat article
 - [x] **Lokace** - přidat article
-- [ ] **Bad endings** - přidat article
+- [x] **Bad endings** - přidat article
 - [ ] **Zajímavosti** - přidat article
 
 ## Episode 4
