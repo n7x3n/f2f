@@ -30,10 +30,10 @@
 - [x] **Příběh** - přepsat vlastním textem
 - [x] **aside** - kompletně celý napsat
 - [x] **Postavy** - přidat article
-- [ ] **Skrytý lore** - přidat article
+- [x] **Skrytý lore** - přidat article
 - [x] **Lokace** - přidat article
 - [x] **Bad endings** - přidat article
-- [ ] **Zajímavosti** - přidat article
+- [x] **Zajímavosti** - přidat article
 
 ## Episode 4
 - [ ] **Příběh** - přidat article
